@@ -1,12 +1,12 @@
-# Date: 2016-06-20, 22:50:00 GMT [RM, KW]
-# © 2016 Unicode®, Inc.
+# Date: 2017-06-19, 22:48:00 GMT [RM, KW]
+# © 2017 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 
-The Unicode Standard, Version 9.0 - Code Charts
+The Unicode Standard, Version 10.0 - Code Charts
 
 The file "CodeCharts.pdf" contains all of the code charts for
-Unicode 9.0. Warning: this file is large (106,812,579 bytes).
+Unicode 10.0. Warning: this file is large (111,652,908 bytes).
 The charts in CodeCharts.pdf do not highlight the new characters.
 
 Fonts
