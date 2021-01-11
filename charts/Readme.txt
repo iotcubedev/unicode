@@ -1,17 +1,13 @@
-# Date: 2015-06-11, 21:24:00 GMT [RM]
-#
-# The Unicode Standard, Version 8.0 - Code Charts
-# Copyright © 1991-2015 Unicode, Inc.
+# Date: 2016-06-20, 22:50:00 GMT [RM, KW]
+# © 2016 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
-#
 
-The Unicode Standard, Version 8.0 - Code Charts
+The Unicode Standard, Version 9.0 - Code Charts
 
 The file "CodeCharts.pdf" contains all of the code charts for
-Unicode 8.0. Warning: this file is large (102,561,478 bytes).
+Unicode 9.0. Warning: this file is large (106,812,579 bytes).
 The charts in CodeCharts.pdf do not highlight the new characters.
-
-These files are stable. They will not be updated with errata.
 
 Fonts
 The shapes of the reference glyphs used in these code charts are not
