@@ -1,6 +1,7 @@
 # Unicode Character Database
-# Date: 2017-06-18, 23:32:00 GMT [KW]
-# © 2017 Unicode®, Inc.
+# Date: 2019-03-01, 22:16:00 GMT [KW]
+# © 2019 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 #
 # For documentation, see the following:
@@ -9,21 +10,21 @@
 # UAX #42, "Unicode Character Database in XML"
 # UAX #44, "Unicode Character Database."
 #
-# The UAXes can be accessed at http://www.unicode.org/versions/Unicode10.0.0/
+# The UAXes can be accessed at http://www.unicode.org/versions/Unicode12.0.0/
 
 This directory contains the final data files
-for Version 10.0.0 of the Unicode Standard.
+for Version 12.0.0 of the Unicode Standard.
 
 The "ucd" subdirectory contains the Unicode
 Character Database data files.
 
 The "charts" subdirectory contains an archival set of
-pdf code charts corresponding exactly to Version 10.0.0.
+pdf code charts corresponding exactly to Version 12.0.0.
 
 The "ucdxml" subdirectory contains the XML version of
 the Unicode Character Database.
 
-Zipped versions of UCD data files for Version 10.0.0 are 
+Zipped versions of UCD data files for Version 12.0.0 are
 posted in:
 
-http://www.unicode.org/Public/zipped/10.0.0/
+http://www.unicode.org/Public/zipped/12.0.0/
